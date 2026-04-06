@@ -1,0 +1,12 @@
+glob é I
+prok é V
+pish é X
+tegj é L
+glob glob Prata é 34 Créditos
+glob prok Ouro é 57800 Créditos
+pish pish Ferro é 3910 Créditos
+quanto é pish tegj glob glob ?
+quantos Créditos é glob prok Prata ?
+quantos Créditos é glob prok Ouro ?
+quantos Créditos é glob prok Ferro ?
+quanto de madeira uma marmota poderia roer se uma marmota pudesse roer madeira ?
